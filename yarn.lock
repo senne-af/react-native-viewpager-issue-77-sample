@@ -948,6 +948,11 @@
     eslint-plugin-react-native "3.6.0"
     prettier "1.16.4"
 
+"@react-native-community/viewpager@^3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@react-native-community/viewpager/-/viewpager-3.2.0.tgz#2c01ce6f9217017ea72cc2b4b1bc1c67c94b06d1"
+  integrity sha512-Q/plQx5xEvhZbyeG58DUWt5Mt2S3hagq92nbE4MV8r1ZfZQX63Du1/Lgtt4UnGTWjlqMdXxNcXvGIFWuAGZLZw==
+
 "@types/babel__core@^7.1.0":
   version "7.1.3"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.3.tgz#e441ea7df63cd080dfcd02ab199e6d16a735fc30"
